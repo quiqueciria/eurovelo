@@ -1,0 +1,40 @@
+Title: Eurovelo por Extremadura
+
+----
+
+Date: 2015-10-04
+
+----
+
+Description: Esto es una descripción
+
+----
+
+Tags: eurovelo,extremadura
+
+----
+
+Text: 
+
+(image: eurovelo_extremadura.png)
+La comunidad de Extremadura ha empezado a plantear las rutas de Eurovelo que pasan por su comunidad, dentro de la (link:http://extremadurabtt.gobex.es/es/ text:página dedicada a la bicicleta popup: yes) en su territorio, ya podemos encontrar un espacio dedicado a Eurovelo.
+
+Mis más sincera enhorabuena a Extremadura y a los responsables de esta página. Si siempre nos quejamos del inmovilismo de las administraciones con Eurovelo, también es justo felicitar por empezar a tomar acciones. Independientemente de los que nos pueda gustar la página, por lo menos ya tenemos mapas, archivos descargables y una pequeña introducción a cada una de las 5 etapas en las que han dividido el paso de Eurovelo por Extremadura.
+
+Después de investigar un poco, lo único que quizás añadiría ahora, sería la ruta completa de las 5 etapas en un sólo mapa, para hacernos un idea general de nuestro paso por la comunidad para y así organizarnos mejor. Después, y ya más adelante si haría lo posible por enriquecerlo con fotos, tipos de terreno, comentarios de gente que lo haya hecho, etc, al estilo de las webs dedicadas a la bici como por ejemplo las de (link:http://www.francevelotourisme.com/ text:Francia popup:yes) o (link:http://www.germany.travel/es/ocio-relax/excursiones-en-bicicleta/montar-en-bicicleta.html text:Alemania popup:yes).
+
+(link:http://extremadurabtt.gobex.es/es/rutas-btt/eurovelo text:Eurovelo por Extremadura popup:yes)
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'dorithalocal';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
