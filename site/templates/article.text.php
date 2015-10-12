@@ -4,7 +4,7 @@
   <main role="main">
 
     <article>
-    	<header>
+      <header>
         <h1><?php echo html($page->title()) ?></h1>
         <div class="meta">
           <time datetime="<?php echo $page->date('c') ?>"><?php echo $page->date('F dS, Y'); ?></time>
@@ -18,7 +18,7 @@
         </div>
       </header>
       <div class="content">
-		    <?php echo kirbytext($page->text()) ?>
+        <?php echo kirbytext($page->text()) ?>
       </div>
       <footer>
         <a class="button" href="<?php echo url() ?>">← Back to the blog</a>

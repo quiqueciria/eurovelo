@@ -122,7 +122,7 @@ function excerpt($text, $length = 140, $mode = 'chars') {
     return $text;
 
   } else {
-    return str::excerpt(kirbytext($text), $length);    
+    return str::excerpt(kirbytext($text), $length, FALSE);    
   }
 
 }
