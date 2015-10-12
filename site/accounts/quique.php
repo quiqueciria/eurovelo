@@ -7,7 +7,7 @@ password: >
 language: es_LA
 role: admin
 history:
-  - contact
   - blog/el-comienzo
   - blog/eurovelo-espana-parece-que-se-mueve
   - blog/eurovelo-por-extremadura
+  - contact

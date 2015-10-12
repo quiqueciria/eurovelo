@@ -27,14 +27,13 @@ Después de investigar un poco, lo único que quizás añadiría ahora, sería l
 **(link:http://extremadurabtt.gobex.es/es/rutas-btt/eurovelo text:Eurovelo por Extremadura popup:yes)**
 
 **ACTUALIZACIÓN (12/10/2015)**
-Mapa con el recorrido completo de la parte de Extremadura. 336 Km.
-
-<iframe frameBorder="0" src="http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=11071806&measures=off&title=off&near=off&images=off&maptype=S" width="688" height="400"></iframe>
+Mapa con el recorrido completo de la parte de Extremadura de 336 Km:
+<iframe frameBorder="0" src="http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=11071806&measures=off&title=off&near=off&images=off&maptype=S" width="100%" height="400"></iframe>
 </br>
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'dorithalocal';
+    var disqus_shortname = 'eurovelo';
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {

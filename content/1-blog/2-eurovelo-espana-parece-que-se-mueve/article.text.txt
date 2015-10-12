@@ -26,3 +26,17 @@ Como un poco recopilación de enlaces os pongo la información que a mi me ha ll
 · (link: http://www.conbici.org/joomla/index.php?option=com_content&view=article&id=1254:el-ministerio-de-medio-ambiente-constituira-la-coordinadora-de-eurovelo-en-espana&catid=18&Itemid=42 text: ConBici, El Ministerio de Medio Ambiente constituirá la Coordinadora de EuroVelo en España popup:yes). Reunión en el **Ministerio de Agricultura, Alimentación y Medio Ambiente**, para la constitución de la Coordinadora Estatal de Eurovelo en España.
 
 En todo caso, todas estas noticias son muy positivas, independientemente del tiempo que pueda pasar hasta que podamos ver un avance real de Eurovelo en España, sigo pensando que lo que hace falta es un mapa oficial (con buena resolución), aunque sea aproximado y suceptible de cambios, pero que que si alguien quiere empezar a recorrer nuestras futuras eurovelos tenga algo aproximado de su ruta.
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
