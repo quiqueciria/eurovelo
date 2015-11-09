@@ -6,8 +6,11 @@
 
   <title><?php echo html($page->title()) ?> | <?php echo html($site->title()) ?></title>
 
-  <?php echo css('http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700') ?>
+  <?php echo css('assets/fonts/fonts.css') ?>
+  <?php echo css('http://fonts.googleapis.com/css?family=Work+Sans:500,600,400') ?>
+  <?php echo css('https://fonts.googleapis.com/css?family=Roboto+Slab') ?>
   <?php echo css('assets/css/site.css') ?>
+    
 
   <?php if($page->description() != ''): ?>
   <meta name="description" content="<?php echo html($page->description()) ?>" />
