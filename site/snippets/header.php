@@ -27,5 +27,4 @@
 
   <header class="site-header" role="banner">
     <a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a>
-    <p><?php echo html($site->description()) ?></p>
   </header>

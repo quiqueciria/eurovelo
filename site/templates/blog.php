@@ -57,8 +57,8 @@
           <?php endif ?>
         </div>
       </header>
-      <p><?php echo excerpt($article->text(), 700) ?>
-      <a href="<?php echo $article->url() ?>">[read more →]</a></p>
+      <div><?php echo excerpt($article->text(), 700) ?>
+      <a href="<?php echo $article->url() ?>">[read more →]</a></div>
     </article>
 
     <?php elseif($article->template() == 'article.link'): // link posts ?>
