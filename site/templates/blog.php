@@ -106,10 +106,10 @@
     <?php if($articles->pagination()->hasPages()): // pagination ?>
     <nav class="pagination cf">
       <?php if($articles->pagination()->hasPrevPage()): ?>
-      <a class="button prev" href="<?php echo $articles->pagination()->prevPageURL() ?>">&lsaquo;&lsaquo; newer posts</a>
+      <a class="button prev" href="<?php echo $articles->pagination()->prevPageURL() ?>">&lsaquo;&lsaquo; nuevos posts</a>
       <?php endif ?>
       <?php if($articles->pagination()->hasNextPage()): ?>
-      <a class="button next" href="<?php echo $articles->pagination()->nextPageURL() ?>">older posts &rsaquo;&rsaquo;</a>
+      <a class="button next" href="<?php echo $articles->pagination()->nextPageURL() ?>">posts anteriores &rsaquo;&rsaquo;</a>
       <?php endif ?>
     </nav>
     <?php endif ?>

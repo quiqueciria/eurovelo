@@ -87,11 +87,13 @@ a:active {
  :::  Site header
 -------------------------------------------------- */
 .site-header {
-  padding: 10px 0px 10px 10px;
+  padding:  14px 0px 13px 0px;
   font-family: triumpblack, helvetica, arial;
   text-transform: uppercase;
   background-color: #FFDC00;
-  margin: 0 0 17px 0;
+  width: 100%;
+  position: fixed;
+  left: 0px;
 }
   .site-header a {
     font-size: 25px;
@@ -101,7 +103,16 @@ a:active {
     margin-top: .25em;
     font-size: 1em;
   }
+.site-header-background {
+    height: 65px;
+}
 
+.site-header-content {
+    width: 95%;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 /*
@@ -123,6 +134,7 @@ a:active {
       background-color: #FFDC00;
       margin-right: 18px;
       border-radius: 3px;
+      font-weight: 500;
     }
       .menu a:hover {
         color: #FFDC00;
@@ -209,15 +221,18 @@ a:active {
  :::  Article basics
 -------------------------------------------------- */
 article {
-  margin-bottom: 5em;
+  margin-bottom: 4em;
 }
+
   article header {
-    padding-bottom: .5em;
+    padding-bottom: 1.4em;
   }
-  article footer {
+
+article footer {
     margin-top: 3em;
   }
-  article p {
+
+article p {
     font-size: 1em;
     margin-bottom: 1.5em;
   }
@@ -229,7 +244,9 @@ article {
 -------------------------------------------------- */
 .meta {
   font-size: 0.8em;
+  line-height: 0.7em;
 }
+
 
 
 
@@ -244,7 +261,6 @@ article {
     margin-right: .25em;
     text-transform: lowercase;
   }
-
 
 
 /*
@@ -319,12 +335,19 @@ blockquote {
 
 a.button {
   display: inline-block;
-  background-color: #333;
-  padding: 1em;
-  color: #fff;
-}
+  background-color: #FFDC00;
+  padding: 0.5em;
+  color: #85144B;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-right: 18px;
+  border-radius: 3px;
+  font-weight: 500;
+  }
+
   a.button:hover {
-    background-color: #dd4a38;
+    color: #FFDC00;
+    background-color: #85144B;
   }
 
 
@@ -468,11 +491,17 @@ article figure {
  :::  Site footer
 -------------------------------------------------- */
 .site-footer {
-  padding: 1em 0;
-  font-size: 0.8em;
+  padding: 0.4em 0 2em 0;
+  font-size: 18px;
   line-height: 1.5;
-  border-top: 1px solid #333;
+  border-top: 4px solid #85144B;
 }
+
+    .site-footer p {
+        font-family: "work sans", helvetica, arial;
+        color: #85144B;
+    }
+
 
 
 

@@ -25,6 +25,10 @@
 </head>
 <body>
 
-  <header class="site-header" role="banner">
-    <a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a>
-  </header>
+  <header class="site-header-background" role="banner">
+    <div class="site-header">
+        <div class="site-header-content">
+            <a href="<?php echo url() ?>"><?php echo html($site->title()) ?></a>
+        </div>
+    </div>
+</header>
