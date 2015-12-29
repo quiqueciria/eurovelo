@@ -16,7 +16,7 @@ Tags: eurovelo,extremadura
 
 Text: 
 
-(image: dezeen_maison-d-by-emmanuelle-weiss_ss1.jpg)
+(image: eurovelo_extremadura.png)
 
 La comunidad de Extremadura ha empezado a plantear las rutas de Eurovelo que pasan por su comunidad, dentro de la (link:http://extremadurabtt.gobex.es/es/ text:página dedicada a la bicicleta popup: yes) en su territorio, ya podemos encontrar un espacio dedicado a Eurovelo.
 

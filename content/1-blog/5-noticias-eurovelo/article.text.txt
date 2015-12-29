@@ -1,0 +1,39 @@
+Title: 12/2015 - Noticias Eurovelo España
+
+----
+
+Date: 2015-12-28
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV1, spain, españa, valencia, desnivel, país, EV8
+
+----
+
+Text:
+
+· <a href="http://desnivel.com/mas-actividades/cicloturismo/jesus-freire-y-las-rutas-cicloturisticas-eurovelo-es-un-exito-de-la-union-europea" target="_blank">Jesús Freire y las rutas cicloturísticas: "EuroVelo es un éxito de la Unión Europea"</a> Pequeña entrevista al coordinador de Eurovelo en Bruselas. Sin grandes aportes, sigue diciendo que a España todavía le queda, a excepción de Extremadura, el resto está bastante en pañales.
+
+· <a href="http://www.esciclismo.com/ampliada.asp?Id=36187&amp;utm_content=buffer46dca&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer" target="_blank">La Generalitat destinará 35 millones a ejecutar itinerarios ciclopeatonales.</a>
+Artículo que habla entre otras actuaciones, de empezar a estudiar la implantación de la Eurovelo 8 a su paso por el País Valencià.
+
+· <a href="http://ccaa.elpais.com/ccaa/2015/12/07/valencia/1449487653_836005.html?ref=rss&amp;format=simple&amp;link=seguir#" target="_blank">Hacia un carril ciclista que cruce la Comunidad Valenciana.</a>
+El País, también se hace eco del anuncio de la Generalitat para empezar a estudiar el paso de la Eurovelo 8 por el Paìs Valenciá.
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

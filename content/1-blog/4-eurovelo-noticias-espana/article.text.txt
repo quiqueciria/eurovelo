@@ -1,0 +1,39 @@
+Title: 11/2015 - Noticias Eurovelo España
+
+----
+
+Date: 2015-11-24
+
+----
+
+Description: Esto es una descripción
+
+----
+
+Tags: eurovelo, EV1, spain, españa, andalucía, desnivel
+
+----
+
+Text: 
+(image: news_eurovelo.jpg)
+
+· <a href="http://www.dipucadiz.es/prensa/actualidad/Diputacion-y-Junta-se-coordinan-para-desarrollar-el-programa-Eurovelo/#">Cádiz. Diputación y Junta se coordinan para desarrollar el programa Eurovelo
+</a>La Diputación de Cádiz ha contratado a una consultora para trabajar en el diseño y el desarrollo de las rutas Eurovelo 1 y Eurovelo 8 a su paso por Cádiz.
+Por otro lado, la carretera que une las localidades de Los Barrios y Facinas (Tarifa), la CA-221 se ha mejorado para incluirla dentro de la ruta Eurovelo 1, está mejora forma parte del Plan Andaluz de la Bicicleta.
+
+· <a href="http://desnivel.com/mas-actividades/cicloturismo/eurovelo-red-europea-de-rutas-cicloturistas">Eurovelo: Red europea de rutas cicloturistas</a>
+Artículo de la revista Desnivel con un pequeño update del estado de Eurovelo en Europa a noviembre de 2015
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
