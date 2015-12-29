@@ -62,6 +62,14 @@ body {
     font-size: 100%;
   }
 }
+
+@media only screen and (max-width : 719px) {
+  body {
+    padding: 0 1em 0 1em;
+  }
+}
+
+
 main {
   line-height: 1.7;
 }
@@ -94,10 +102,13 @@ a:active {
   width: 100%;
   position: fixed;
   left: 0px;
+  background: url("../images/header_image.png");
 }
   .site-header a {
     font-size: 25px;
     letter-spacing: 1px;
+    background-color: white;
+    padding: 0px 10px;  
   }
   .site-header p {
     margin-top: .25em;
@@ -181,6 +192,12 @@ a:active {
     }
 }
 
+@media only screen and (max-width : 719px) {
+  .search {
+    margin-top: 15px;
+    }
+}
+
 
 
 /*
@@ -244,7 +261,6 @@ article p {
 -------------------------------------------------- */
 .meta {
   font-size: 0.8em;
-  line-height: 0.7em;
 }
 
 
@@ -273,7 +289,6 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 28px;
   font-weight: 600;
-  margin-bottom: .25em;
 }
 h2 {
   font-size: 2em;
