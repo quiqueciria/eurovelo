@@ -1,8 +1,8 @@
-Title: Eurovelo España
+Title: www.eurovelo.es
 
 ----
 
-Description: Un blog acerca de Eurovelo España
+Description: Página acerca de Eurovelo a su paso por España
 
 ----
 
