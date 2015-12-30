@@ -151,6 +151,17 @@ a:active {
         color: #FFDC00;
         background-color: #85144B;
       }
+    
+    .btn_twitter a {
+    color: white;
+    background-color: #28A9E0;
+    }
+
+    .btn_twitter a:hover {
+    color: white;
+    background-color: #3b88c3;
+    }
+
   @media only screen and (min-width : 40em) {
     .menu ul {
       float: left;

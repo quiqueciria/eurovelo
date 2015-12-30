@@ -1,5 +1,5 @@
 ### Now
- 
+ · Poner algún tweet más con otro post en @euroveloes
 
  
 ### Quick
@@ -11,3 +11,5 @@
 ### Soon
 · Improve the design of the links, look is like in the original .sketch   
 · Put the texts from english to spanish 
+
+## Made

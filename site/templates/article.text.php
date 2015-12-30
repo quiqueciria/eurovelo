@@ -22,7 +22,7 @@
       </div>
       <footer>
         <a class="button" href="<?php echo url() ?>">← Volver al inicio</a>
-        <a class="button" href="https://twitter.com/intent/tweet?source=webclient&text=<?php echo rawurlencode($page->title()); ?>- %20<?php echo rawurlencode($site->title()) ?>%20<?php echo rawurlencode ($page->url()); ?>%20<?php echo ('via @vividors')?>" target="blank" title="Tweet this">Tweet</a>
+        <a class="button" href="https://twitter.com/intent/tweet?source=webclient&text=<?php echo rawurlencode($page->title()); ?>- %20<?php echo rawurlencode($site->title()) ?>%20<?php echo rawurlencode ($page->url()); ?>%20<?php echo ('via @euroveloes')?>" target="blank" title="Tweet this">Tweet</a>
       </footer>
     </article>
 
