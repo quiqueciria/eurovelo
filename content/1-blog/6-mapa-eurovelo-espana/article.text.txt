@@ -1,0 +1,20 @@
+Title: Sección mapa de Eurovelo por España.
+
+----
+
+Date: 2016-01-17
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV1, spain, españa, mapa, EV3, EV8 
+
+----
+
+Text: 
+Tenemos una nueva sección en la página, (link: /mapa text:"Mapa"). La idea es mantener actualizada un página con los trazado actuales y todo lo oficiales que se pueda de las rutas. Aunque en la propias página tienes más información, desde aquí digo que se puede colaborar, además de estar totalmente agradecidos, recuerda que si alguna vez nos cruzamos te debo unas cañas ;) 
+
+(link: /mapa text: Mapa de las rutas eurovelo por España)
