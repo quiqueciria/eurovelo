@@ -266,8 +266,8 @@ article p {
   }
 
 article p a {
-    border-bottom: 1px solid #85144B;
-    padding-bottom: 2px;
+    border-bottom: 1px solid rgba(134, 96, 114, 0.37);
+    padding-bottom: 1px;
 }
 
 

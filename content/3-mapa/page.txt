@@ -10,12 +10,18 @@ Text:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zAp7QT_UY2i8.kp7Ltuo9iQEw" width="720" height="480"></iframe>
 <br>
-Sobre este mapa puedes ver la presunción de lo que pueden ser las rutas Eurovelo (están pedientes de incluir la EV8 y la EV3) a su paso por España. Cuando empece este página escribí un (link: blog/el-comienzo text: post popup: yes) acerca de como iba a enfocar esto, aunque un poco desactualizado puede servir de utilidad para comprender porque este mapa está "in progress".
+Sobre este mapa puedes ver la presunción de lo que pueden ser las rutas Eurovelo (pediente de incluir la EV8) a su paso por España. Cuando empece este página escribí un (link: blog/el-comienzo text: post popup: yes) acerca de como iba a enfocar esto, aunque un poco desactualizado puede servir de utilidad para comprender porque este mapa está "in progress".
 
 #####¿Quieres ayudar?
-A falta de un trazado oficial, toda esta información lo que intentar es ayudar para que si alguien quiere hacer ya, a día de hoy, las rutas Eurovelo a su paso por España pueda orientarse. Como es de suponer, por mi parte puedo más o menos prever por donde pasará según la documentación que hay por ahí, pero de momento poco más. Seguro que muchos de los que visitáis esto, conocéis los entornos y sitios que por donde pasan las rutas, si quieres ayudarme por favor enviame un email a (email: info@eurovelo.es) incluyendo lo que puedas de esta lista: 
+A falta de un trazado oficial, toda esta información lo que intenta es ayudar para que si alguien quiere hacer ya, a día de hoy, las rutas Eurovelo a su paso por España pueda orientarse. Como es de suponer, por mi parte puedo más o menos prever por donde pasará según la documentación que hay por ahí, pero de momento poco más. Seguro que muchos de los que visitáis esto, conocéis los entornos y sitios que por donde pasan las rutas, si quieres ayudarme por favor enviame un email a (email: info@eurovelo.es) incluyendo lo que puedas de esta lista: 
 - Tramo que se quiere modificar
 - Fotos si es posible
 - Algún link o información oficial acerca de ese trazado
 
 ¡Gracias de antemano!
+
+###Eurovelo 1 - Ruta de la Costa Atlántica
+Ruta marcada partiendo de la web de la (link: http://www.rutadelaplata.com/es text: Vía de la Plata popup:yes), que comparte recorrido con la EV1 y una (link: http://www.rodadas.net/foro/topic/eurovelo-1-espana text: pregunta popup:yes) que puse el el foro de la recomendadísima web de (link: http://www.rodadas.net/ text: Rodadas popup:yes).
+
+###Eurovelo 3 - Ruta de los Peregrinos
+Ruta marcada desde la propuesta de (link: http://cycling.waymarkedtrails.org/es/relation/299546 text: Waymarked Trails: Ciclismo popup: yes)
