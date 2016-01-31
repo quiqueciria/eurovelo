@@ -153,8 +153,10 @@ a:active {
       }
     
     .btn_twitter a {
+    float: left;
     color: white;
     background-color: #28A9E0;
+    margin-top: 10px;
     }
 
     .btn_twitter a:hover {
@@ -166,6 +168,11 @@ a:active {
     .menu ul {
       float: left;
     }
+      
+      .btn_twitter a {
+    float: right;
+    margin-top: 0px;
+    }  
   }
 
 
