@@ -1,0 +1,41 @@
+Title: 2/2016 - Noticias Eurovelo España
+
+----
+
+Date: 2016-02-28
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV1, spain, españa, EV8, andalucía, portugal, chipre
+
+----
+
+Text:
+
+· <a href="http://p3.publico.pt/actualidade/ambiente/19328/mais-920-quilometros-ciclaveis-ao-longo-da-costa-portuguesa" target="_blank">Mais 920 quilómetros cicláveis ao longo da costa portuguesa (PT)</a>.
+Artículo sobre como la Federación Portuguesa de Cicloturismo y Utilizadores de la Bicicleta quiere extender la la ruta Eurovelo 1.
+
+· <a href="https://twitter.com/YessFreire/status/690873660756856833/photo/1" target="_blank">Andalucía incluye en su presupuesto de Fondos FEDER 2014-2020 más de 30M euros para infraestructura ciclista</a>.
+Tweet de <a href="https://twitter.com/YessFreire" target="_blank">Jesús Freire</a>
+
+
+· La Junta presenta a Europa un proyecto para potenciar la ruta ciclista que conecta Andalucía con Chipre,<a href="http://noticias.lainformacion.com/deporte/ciclismo/la-junta-presenta-a-europa-un-proyecto-para-potenciar-la-ruta-ciclista-que-conecta-andalucia-con-chipre_5bvsIZ5EyClVa8zbb3WHP4/" target="_blank"> noticia de lainformación.com</a>.
+La Junta de Andalucía hace un intercambio de experiencias y actividades entre las zonas por las que discurre la Eurovelo 8.
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
