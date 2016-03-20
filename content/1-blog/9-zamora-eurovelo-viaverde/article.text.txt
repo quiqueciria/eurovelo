@@ -1,0 +1,37 @@
+Title: Zamora integra un tramo de la Eurovelo 1
+
+----
+
+Date: 2016-03-20
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, españa, rtve, zamora, ruta, plata, benavente, Maire, Barcial, ev1
+
+----
+
+Text:
+La provincia de Zamora integra parte de la futura Vía Verde Benaventana (Benavente) en la Ruta del Atlántico, EV1. En concreto, el tramo que va desde Maire de Castroponce a Barcial del Barco que formaba parte de la antigua línea de ferrocarril Plasencia-Astorga.
+
+Según comenta en (link: http://www.laopiniondezamora.es/benavente/2016/02/22/via-verde-benaventana-integrada-red/906320.html text: este artículo de La Opinión de Zamora popup: yes)  en fases futuras quieren aprovechar parte de la Ruta de la Plata y el antiguo trazado del ferrocarril hasta el pueblo de Riego del Camino pasando por Zamora y llegando hasta El Cubo de Tierra de Vino antes de llegar a Salamanca y de ahí, dirección a la Provincia de Extremadura.
+
+En nuestro (link:/mapa text: Mapa) ya podéis ver un acercamiento a lo que será esté tramo, como según todas las informaciones no parece que esté aún desarrollado físicamente a fecha de este post. Vamos a marcar la ruta lo más cerca posible, pero sobre todo que sea ciclable a día de hoy, cuando tengamos noticias de que esté realizado, actualizamos.
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
