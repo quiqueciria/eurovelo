@@ -8,7 +8,8 @@ Description:
 
 Text: 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=zAp7QT_UY2i8.kp7Ltuo9iQEw" width="720" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=zAp7QT_UY2i8.kp7Ltuo9iQEw" width="720" height="480" style="border: 1px solid #85144B;"></iframe>
+<figcaption>Mapa Eurovelo España en MyMaps</figcaption>
 <br>
 Sobre este mapa puedes ver la presunción de lo que pueden ser las rutas Eurovelo a su paso por España. Cuando empecé este página escribí un (link: blog/el-comienzo text: post popup: yes) acerca de como iba a enfocar esto, aunque un poco desactualizado puede servir de utilidad para comprender porque este mapa está "in progress".
 
