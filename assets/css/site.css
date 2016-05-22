@@ -135,6 +135,7 @@ a:active {
   .menu li {
     float: left;
     display: inline-block;
+    position: relative;
   }
     .menu a {
       display: block;
@@ -160,20 +161,12 @@ a:active {
         position: absolute;
         z-index: 1;
         display: none;
-        left: 1em;
-      }
-      .submenu:before {
-        position: absolute;
-        z-index: -1;
-        content: '';
-        top: -.5em;
-        left: 0;
-        border-top: .5em solid transparent;
-        border-bottom: .5em solid transparent;
-        border-left: .5em solid #222;
+        padding-top: 20px;
+        background-color: white;
       }
       .submenu li {
-        border-bottom: 1px solid #444;
+        padding-top: 10px;
+        background-color: #ffffff;
       }
       .submenu a {
         padding: .5em 1.5em;
@@ -183,7 +176,7 @@ a:active {
         background: #222;
         white-space: nowrap;
       }
-      .submenu a:hover {
+      .submenu a:hever {
         background: #333;
         color: #fff;
       }

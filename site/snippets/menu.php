@@ -3,7 +3,7 @@
     <?php foreach($pages->visible() as $item): ?>
     <li class="menuitem">
       <a<?php ecco($item->isOpen(), ' class="active"') ?> href="<?php echo $item->url() ?>"><?php echo $item->title() ?></a>
-      <?php if($item->hasVisibleChildren()): ?>
+        <?php if(!$item->is(page('blog')) && $item->hasVisibleChildren()): ?>
       <ul class="submenu">
         <?php foreach($item->children()->visible() as $item): ?>
         <li>
