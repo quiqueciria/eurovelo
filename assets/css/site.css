@@ -139,45 +139,51 @@ a:active {
   }
     .menu a {
       display: block;
-      padding: 0.5em;
-      color: #85144B;
+      padding: 0.45em;
       letter-spacing: 1px;
       text-transform: uppercase;
-      background-color: #FFDC00;
-      margin-right: 18px;
-      border-radius: 3px;
+      color: #85144B;
       font-weight: 500;
     }
-      .menu a:hover {
-        color: #FFDC00;
-        background-color: #85144B;
-      }
 
-      .menuitem:hover .submenu{
-            display: block;
-      }
+    .menu a:hover {
+      color: #FFDC00;
+      background-color: #85144B;
+    }
+
+    .menuitem {
+      background-color: #FFDC00;
+      border-radius: 3px;
+      margin-right: 18px
+    }
+
+    .menuitem:last-child {
+      border-radius: 3px 3px 0 0;
+    }
+
+    .menuitem:hover .submenu {
+      display: block;
+    }
+
 
   .submenu {
         position: absolute;
         z-index: 1;
         display: none;
-        padding-top: 20px;
-        background-color: white;
+        background-color: #fbea7f;
       }
       .submenu li {
-        padding-top: 10px;
-        background-color: #ffffff;
+        border-top: 1px solid #85144B;
+        width: 100%;
       }
       .submenu a {
-        padding: .5em 1.5em;
+        padding: .5em;
         font-size: .9em;
         font-weight: 300;
-        color: #fff;
-        background: #222;
-        white-space: nowrap;
+        color: #85144B;
       }
-      .submenu a:hever {
-        background: #333;
+      .submenu a:hover {
+        background: #85144B;
         color: #fff;
       }
 
@@ -185,7 +191,8 @@ a:active {
     float: left;
     color: white;
     background-color: #28A9E0;
-    margin-top: 10px;
+    margin: 10px 10px 0 0;
+    border-radius: 3px;
     }
 
     .btn_twitter a:hover {
