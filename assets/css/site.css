@@ -135,28 +135,64 @@ a:active {
   .menu li {
     float: left;
     display: inline-block;
+    position: relative;
   }
     .menu a {
       display: block;
-      padding: 0.5em;
-      color: #85144B;
+      padding: 0.45em;
       letter-spacing: 1px;
       text-transform: uppercase;
-      background-color: #FFDC00;
-      margin-right: 18px;
-      border-radius: 3px;
+      color: #85144B;
       font-weight: 500;
     }
-      .menu a:hover {
-        color: #FFDC00;
-        background-color: #85144B;
+
+    .menu a:hover {
+      color: #FFDC00;
+      background-color: #85144B;
+    }
+
+    .menuitem {
+      background-color: #FFDC00;
+      border-radius: 3px;
+      margin-right: 18px
+    }
+
+    .menuitem:last-child {
+      border-radius: 3px 3px 0 0;
+    }
+
+    .menuitem:hover .submenu {
+      display: block;
+    }
+
+
+  .submenu {
+        position: absolute;
+        z-index: 1;
+        display: none;
+        background-color: #fbea7f;
+      }
+      .submenu li {
+        border-top: 1px solid #85144B;
+        width: 100%;
+      }
+      .submenu a {
+        padding: .5em;
+        font-size: .9em;
+        font-weight: 300;
+        color: #85144B;
+      }
+      .submenu a:hover {
+        background: #85144B;
+        color: #fff;
       }
 
     .btn_twitter a {
     float: left;
     color: white;
     background-color: #28A9E0;
-    margin-top: 10px;
+    margin: 10px 10px 0 0;
+    border-radius: 3px;
     }
 
     .btn_twitter a:hover {
@@ -164,15 +200,21 @@ a:active {
     background-color: #3b88c3;
     }
 
-  @media only screen and (min-width : 40em) {
-    .menu ul {
-      float: left;
-    }
+
+    @media only screen and (min-width: 40em) {
+
+      .menu ul {
+        float: left;
+      }
+
+      .menu > li:hover .submenu {
+        display: block;
+      }
 
       .btn_twitter a {
-    float: right;
-    margin-top: 0px;
-    }
+        float: right;
+        margin-top: 0px;
+      }
   }
 
 
