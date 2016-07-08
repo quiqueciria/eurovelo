@@ -1,4 +1,4 @@
-Title: EUROV 1
+Title: Eurovelo 1 - Ruta de la Costa Atlántica
 
 ----
 
@@ -7,3 +7,6 @@ Description:
 ----
 
 Text:
+###Extremadura
+(image: mapa_perfil_prueba.jpg)
+A falta de un trazado oficial, toda esta información lo que intenta es ayudar para que si alguien quiere hacer ya, a día de hoy, las rutas Eurovelo a su paso por España pueda orientarse. Como es de suponer, por mi parte puedo más o menos prever por donde pasará según la documentación que hay por ahí, pero de momento poco más. Seguro que muchos de los que visitáis esto, conocéis los entornos y sitios que por donde pasan las rutas, si quieres ayudarme por favor enviame un email a (email: info@eurovelo.es) incluyendo lo que puedas de esta lista:
