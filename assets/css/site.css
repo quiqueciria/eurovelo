@@ -504,11 +504,11 @@ a.button {
   .content table th,
   .content table td {
     padding: .5rem 1rem;
-    background-color: #eee;
-    border: 2px solid #fff;
+    border: 1px solid #85144B;
   }
   .content table th {
-    background-color: #ddd;
+    background-color: #EEEEEE;
+    font-weight: normal;
   }
 
 

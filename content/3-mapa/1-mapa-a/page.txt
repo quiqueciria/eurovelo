@@ -7,6 +7,34 @@ Description:
 ----
 
 Text:
+###Euskadi
+(image: mapa_perfil_ev1_eusk.jpg)
+|LONGITUD|DESNIVEL POS.|STRAVA|
+|---|---|--|
+|10,6 KM|75 M.|https://www.strava.com/routes/5679191 |
+###Navarra
+(image: mapa_perfil_ev1_nav.jpg)
+|LONGITUD|DESNIVEL POS.|STRAVA|
+|---|---|--|
+|177 KM|3.022 M.|https://www.strava.com/routes/5679443 |
+###Castilla y León y La Rioja
+(image: mapa_perfil_ev1_cyl.jpg)
+|LONGITUD|DESNIVEL POS.|STRAVA|
+|---|---|--|
+|556,1 KM|5.552 M.|https://www.strava.com/routes/5679659 |
 ###Extremadura
-(image: mapa_perfil_prueba.jpg)
+(image: mapa_perfil_ev1_extr.jpg)
 A falta de un trazado oficial, toda esta información lo que intenta es ayudar para que si alguien quiere hacer ya, a día de hoy, las rutas Eurovelo a su paso por España pueda orientarse. Como es de suponer, por mi parte puedo más o menos prever por donde pasará según la documentación que hay por ahí, pero de momento poco más. Seguro que muchos de los que visitáis esto, conocéis los entornos y sitios que por donde pasan las rutas, si quieres ayudarme por favor enviame un email a (email: info@eurovelo.es) incluyendo lo que puedas de esta lista:
+
+|LONGITUD|DESNIVEL POS.|STRAVA|
+|---|---|--|
+|335,4 KM|3.543 M.|https://www.strava.com/routes/5653610 |
+
+|ENLACES ÚTILES|
+|---|
+|http://extremadurabtt.gobex.es/es/index.html |
+###Andalucía
+(image: mapa_perfil_ev1_and.jpg)
+|LONGITUD|DESNIVEL POS.|STRAVA|
+|---|---|--|
+|224 KM|2.276 M.|https://www.strava.com/routes/5679191 |
