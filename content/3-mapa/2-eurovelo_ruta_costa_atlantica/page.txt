@@ -1,0 +1,61 @@
+Title: Eurovelo 1 - Ruta de la Costa Atlántica
+
+----
+
+Description:
+
+----
+
+Text:
+La (link:http://www.eurovelo.com/en/eurovelos/eurovelo-1 text:EV1 popup:yes) es una ruta que parte desde Noruega hasta el sur de Portugal atravesando, además de estos países, Gran Bretaña, Irlanda, Francia y España.
+
+Su paso por España comienza en el País Vasco (Irún) para pasar por Navarra, La Rioja, Castilla y León, Extremadura y Andalucía. La EV1 aprovecha parte de los trazados del (link: http://www.caminosantiago.org/cpperegrino/comun/inicio.asp text: Camino de Santiago popup:yes) y de la (link:http://www.rutadelaplata.com/es text:Ruta de la Plata popup:yes). Son aproximadamente 1.300 Km de recorrido en territorio español.
+
+La ruta que aquí mostramos está marcada tomando de manera aproximada información de la web de la Vía de la Plata, con la cual comparte recorrido, (link: http://extremadurabtt.gobex.es/es/rutas-btt/eurovelo/ text:una propuesta de Turismo Extremadura popup:yes), y algo de información de este (link: http://www.rodadas.net/foro/topic/eurovelo-1-espana text:post popup:yes) en el foro de Rodadas.
+
+Para ver la ruta de forma completa se puede visitar la página general de las rutas (link: mapa/eurovelo_spain text: “EUROVELO EN ESPAÑA”). La información que tenemos a continuación distribuye el trayecto e información útil por comunidades autónomas.
+
+**RECUERDA:** Esta información es aproximada y orientativa. Comprueba tus rutas y haz tu viaje con resposabilidad.
+###Euskadi
+(image: mapa_perfil_ev1_eusk.jpg)
+Entramos en territorio español por Irún aprovechando parte del recorrido de (link: http://www.euroziklo.com/es.html text:EuroZiklo popup:yes), son poco más de 10 Km.
+
+|LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
+|---|---|--|
+|10,6 KM|75 M.|(link: https://www.strava.com/routes/5679191 popup:yes) |
+###Navarra
+(image: mapa_perfil_ev1_nav.jpg)
+La comunidad de Navarra cuenta con 160 Km de trayecto en el que partimos desde el bajo nivel de la costa hasta unos nada despreciables 800 m.
+
+|LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
+|---|---|--|
+|177 KM|3.022 M.|(link: https://www.strava.com/routes/5679443 popup:yes)|
+###Castilla y León y La Rioja
+(image: mapa_perfil_ev1_cyl.jpg)
+A falta de separar estas dos comunidades se comentan juntas.
+A través de La Rioja, la ruta EV1 atraviesa aproximadamente 60 Km pasando por su capital Logroño.
+En Castilla y Léon contamos con el trayecto más largo de la EV1 que atraviesa una comunidad española, son aproximadamente 490 Km en los que atravesaremos Burgos, Zamora y Salamanca.
+
+|LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
+|---|---|--|
+|556,1 KM|5.552 M.|(link: https://www.strava.com/routes/5679659 popup:yes) |
+###Extremadura
+(image: mapa_perfil_ev1_extr.jpg)
+Extremadura es quizás la comunidad que ha puesto más interés en dar información de la EuroVelo a su paso por su territorio ya que cuenta con una página dedicada a ello exclusivamente, (link: http://extremadurabtt.gobex.es/es/rutas-btt/eurovelo/ text: “EuroVelo por Extremadura” popup:yes) con planos, tracks para GPS e información útil.
+
+Son 335 Km que transcurren en parte por la antigua Vía de la Plata desde el Puerto de Bejar hasta Monesterio pasando cerca de Plasencia y atravesando Cáceres y Mérida.
+
+|LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
+|---|---|--|
+|335,4 KM|3.543 M.|(link: https://www.strava.com/routes/5653610 popup:yes)|
+
+###Andalucía
+(image: mapa_perfil_ev1_and.jpg)
+
+Aunque Andalucía con su (link: http://www.juntadeandalucia.es/fomentoyvivienda/portal-web/web/areas/transportes/plan_bici text:Plan Andaluz de la Bicicleta popup:yes) pareciera que iba a dar un impulso fuerte a las dos rutas de la EuroVelo que pasan por su territorio, así como a poder viajar en bicicleta, por el momento todo indica que todo está bastante parado y no hay muchas noticias de cosas reales.
+
+Son 224 Km que parten desde El Real de la Jara hasta Ayamonte en Huelva, y desde hay, suponemos que tomando un barco se puede continuar hasta Portugal siguiendo la EV1.
+
+|LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
+|---|---|--|
+|224 KM|2.276 M.|(link: https://www.strava.com/routes/5679984 popup:yes) |
