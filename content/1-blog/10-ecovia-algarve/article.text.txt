@@ -16,15 +16,15 @@ Tags: eurovelo, españa, ev1, portugal, algarve, ecovia, bicicleta
 
 Text:
 (image: distancias2.jpg alt: People on bike for ecovvia POortugal caption: @ecoviaalgarve)
-Si una vez llegados a Ayamonte, final de la etapa española de la Eurovelo 1, queremos continuar hacia Portugal, (link:http://www.eurovelo.com/en/eurovelos/eurovelo-1/countries/portugal text:no encontramos información útil popup:yes) en la página oficial de Eurovelo, al igual que pasa con España. Pero gracias al trabajo de Manuel y Carmen, autores del (link:https://ecoviadelalgarve.wordpress.com/ text:blog Ecovía del Algarve popup:yes), tenemos mucha información para continuar nuestro viaje hacia Portugal.
+Si una vez llegados a Ayamonte, final de la etapa española de la Eurovelo 1, queremos continuar hacia Portugal, (link:http://www.eurovelo.com/en/eurovelos/eurovelo-1/countries/portugal text:no encontramos información útil popup:yes) en la página oficial de Eurovelo, al igual que pasa con España. Pero gracias al trabajo de Manuel y Carmen, autores del (link:http://ecoviadelalgarve.guiadecicloturismo.com text:blog Ecovía del Algarve popup:yes), tenemos mucha información para continuar nuestro viaje hacia Portugal.
 
-La página de (link:https://ecoviadelalgarve.wordpress.com/ text:ecoviadelalgarve.wordpress.com popup:yes) es una herramienta fantástica que nos ayudará a planificar nuestra ruta. Con unos 223 Km. desde Vila Real de San Antonio al Cabo de San Vicente, donde cerca del final de recorrido (añadiendo 42Km. más) en Lagos hay un apeadero de tren para poder volver al inicio sin problema.
+La página de (link:http://ecoviadelalgarve.guiadecicloturismo.com text:http://ecoviadelalgarve.guiadecicloturismo.com popup:yes) es una herramienta fantástica que nos ayudará a planificar nuestra ruta. Con unos 223 Km. desde Vila Real de San Antonio al Cabo de San Vicente, donde cerca del final de recorrido (añadiendo 42Km. más) en Lagos hay un apeadero de tren para poder volver al inicio sin problema.
 
 Si es verdad, que una vez llegados a Ayamonte lo que nos separa de Vila Real de San Antonio es el río Guadiana. (link:https://goo.gl/maps/aDSsDjptAtq text:Una búsqueda rápida en Google Map popup:yes) nos da que hay un ferry que nos ayudará a cruzar desde el Puerto de Ayamonte hacia Vila Real de San Vicente.
 
 La web es muy completa y un buen trabajo para compartir con la comunidad ciclista, así que si te es útil (link:https://ecoviadelalgarve.wordpress.com/como-colaborar/ text:tienen diferentes formas de colaborar popup:yes), pásate por allí y si puedes echar una mano ya sabes.
 
-(link:https://ecoviadelalgarve.wordpress.com/ text:https://ecoviadelalgarve.wordpress.com/ popup:yes)
+(link:http://ecoviadelalgarve.guiadecicloturismo.com text:http://ecoviadelalgarve.guiadecicloturismo.com popup:yes)
 
 </br>
 <div id="disqus_thread"></div>

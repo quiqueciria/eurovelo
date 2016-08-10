@@ -9,25 +9,27 @@ Description:
 Text:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zAp7QT_UY2i8.kp7Ltuo9iQEw" width="720" height="480" style="border: 1px solid #85144B;"></iframe>
-<figcaption>Mapa Eurovelo España en MyMaps</figcaption>
+<figcaption>Mapa EuroVelo España en MyMaps</figcaption>
 <br>
 Sobre este mapa puedes ver la presunción de lo que pueden ser las rutas Eurovelo a su paso por España. Cuando empecé este página escribí un (link: blog/el-comienzo text: post popup: yes) acerca de como iba a enfocar esto, aunque un poco desactualizado puede servir de utilidad para comprender porque este mapa está "in progress".
 
 #####¿Quieres ayudar?
-A falta de un trazado oficial, toda esta información lo que intenta es ayudar para que si alguien quiere hacer ya, a día de hoy, las rutas Eurovelo a su paso por España pueda orientarse. Como es de suponer, por mi parte puedo más o menos prever por donde pasará según la documentación que hay por ahí, pero de momento poco más. Seguro que muchos de los que visitáis esto, conocéis los entornos y sitios que por donde pasan las rutas, si quieres ayudarme por favor enviame un email a (email: info@eurovelo.es) incluyendo lo que puedas de esta lista:
+A falta de un trazado oficial, toda esta información lo que intenta es ayudar para que si alguien quiere hacer ya, a día de hoy, las rutas EuroVelo a su paso por España pueda orientarse. Como es de suponer, por mi parte puedo más o menos prever por donde pasará según la documentación que hay por ahí, pero de momento poco más. Seguro que muchos de los que visitáis esto, conocéis los entornos y sitios que por donde pasan las rutas, si quieres ayudarme por favor enviame un email a (email: info@eurovelo.es) incluyendo lo que puedas de esta lista:
 - Tramo que se quiere modificar
 - Fotos si es posible
-- Algún link o información oficial acerca de ese trazado
+- Algún link o información, si puede ser oficial, acerca de ese trazado
 
 ¡Gracias de antemano!
 
-###Eurovelo 1 - Ruta de la Costa Atlántica
-Ruta marcada partiendo de la web de la (link: http://www.rutadelaplata.com/es text: Vía de la Plata popup:yes), que comparte recorrido con la EV1, la (link:http://extremadurabtt.gobex.es/es/rutas-btt/eurovelo/ text:propuesta de Turismo Extremadura popup:yes) a su paso por está comunidad y una (link: http://www.rodadas.net/foro/topic/eurovelo-1-espana text: pregunta popup:yes) que puse el el foro de la recomendadísima web de (link: http://www.rodadas.net/ text: Rodadas popup:yes).
+###EuroVelo 1 - Ruta de la Costa Atlántica
+Ruta marcada tomando información de la web de la (link: http://www.rutadelaplata.com/es text: Vía de la Plata popup:yes), que comparte recorrido con la EV1, la (link:http://extremadurabtt.gobex.es/es/rutas-btt/eurovelo/ text:propuesta de Turismo Extremadura popup:yes) a su paso por está comunidad y una (link: http://www.rodadas.net/foro/topic/eurovelo-1-espana text: pregunta popup:yes) que puse el el foro de la recomendadísima web de (link: http://www.rodadas.net/ text: Rodadas popup:yes).
 
-Si quieres continuar hacia el Cabo de San Vicente en Portugal consulta la fantástica web (link:https://ecoviadelalgarve.wordpress.com/ text:Ecovía del Algarve popup:yes). Escribí (link:blog/ecovia-algarve text:un breve post) sobre ello.
+Si quieres continuar hacia el Cabo de San Vicente en Portugal consulta la fantástica web (link:http://ecoviadelalgarve.guiadecicloturismo.com/ text:Ecovía del Algarve popup:yes). Escribí (link:blog/ecovia-algarve text:un breve post) sobre ello.
 
-###Eurovelo 3 - Ruta de los Peregrinos
+Tienes más información y su distribución por comunidades en (link: /mapa/eurovelo_ruta_costa_atlantica text:EuroVelo 1 - Ruta de la Costa Atlántica)
+
+###EuroVelo 3 - Ruta de los Peregrinos
 Ruta marcada desde la propuesta de (link: http://cycling.waymarkedtrails.org/es/relation/299546 text: Waymarked Trails: Ciclismo popup: yes)
 
-###Eurovelo 8 - Ruta Mediterranea
-Esta ruta esta marcada con la ayuda de (link: http://cycling.waymarkedtrails.org/es/relation/299546# text: Waymarked Trails: Ciclismo popup: yes), un (link: http://www.valenciaenbici.org/la-ruta-eurovelo-su-paso-por-la-comunitat-valenciana-y-region-de-murcia/ text: post popup: yes) de Valencia en bici acerca de Eurovelo a su paso por la Comunitat Valènciana y un (link: http://www.aopandalucia.es/inetfiles/plan_bicicletas/8520141133461.pdf text: pdf popup: yes) de la Agencia de Obra Pública de la Junta de Andalucía.
+###EuroVelo 8 - Ruta Mediterranea
+Esta ruta esta marcada con la ayuda de (link: http://cycling.waymarkedtrails.org/es/relation/299546# text: Waymarked Trails: Ciclismo popup: yes), un (link: http://www.valenciaenbici.org/la-ruta-eurovelo-su-paso-por-la-comunitat-valenciana-y-region-de-murcia/ text: post popup: yes) de Valencia en bici acerca de EuroVelo a su paso por la Comunitat Valènciana y un (link: http://www.aopandalucia.es/inetfiles/plan_bicicletas/8520141133461.pdf text: pdf popup: yes) de la Agencia de Obra Pública de la Junta de Andalucía.

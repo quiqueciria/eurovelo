@@ -6,7 +6,7 @@ Date: 2013-12-30
 
 ----
 
-Description: 
+Description:
 
 ----
 
@@ -14,20 +14,20 @@ Tags: eurovelo, EV1, spain, españa
 
 ----
 
-Text: 
+Text:
 (image: header_post_el_comienzo.jpg)
 
-Hola a los que estáis ahí, si es que hay alguien ahora mismo claro. Este blog espero que sea la antesala de una página que pueda ser de utilidad para todos aquellos que quieran hacer la etapa española de la red (link: Eurovelo text: Eurovelo popup:yes).
+Hola a los que estáis ahí, si es que hay alguien ahora mismo claro. Este blog espero que sea la antesala de una página que pueda ser de utilidad para todos aquellos que quieran hacer la etapa española de la red (link: EuroVelo text: EuroVelo popup:yes).
 
-Por España pasan tres rutas de Eurovelo, la (link: http://www.eurovelo.com/en/eurovelos/eurovelo-1/countries/spain text: EV1 popup:yes) llamada de la Costa Atlántica, la (link: http://www.eurovelo.com/en/eurovelos/eurovelo-8/countries/spain text: EV8 popup:yes) La ruta del Mediterraneo y la (link: http://www.eurovelo.com/en/eurovelos/eurovelo-3 text: EV3 popup:yes) La Ruta de los Peregrinos. En un principio me voy a centrar en la EV1 y después ya más adelante intentaremos trabajar en la otras, aunque de la EV8 creo que si buscáis es más fácil encontrar información en la red, supongo que como va pegada a la playa es más atractiva y por tanto más usada.
+Por España pasan tres rutas de EuroVelo, la (link: /mapa/eurovelo_ruta_costa_atlantica text: EV1) llamada de la Costa Atlántica, la (link: http://www.eurovelo.com/en/eurovelos/eurovelo-8/countries/spain text: EV8 popup:yes) La ruta del Mediterraneo y la (link: http://www.eurovelo.com/en/eurovelos/eurovelo-3 text: EV3 popup:yes) La Ruta de los Peregrinos. En un principio me voy a centrar en la EV1 y después ya más adelante intentaremos trabajar en la otras. Aunque, de la EV8 creo que si buscáis, es más fácil encontrar información en la red, supongo que como va pegada a la playa es más atractiva y por tanto más usada.
 
-He empezado por trazar la ruta completa sirviéndome un poco de la información que he podido encontrar, se que ahora mismo no es la ruta idonea, pero por algún sitio había que empezar. Esta ruta tiene muchos incovenientes ahora mismo como por ejemplo unos perfiles muy elevados o muchos caminos que para un viaje que debería de ser agradable y quizás acesible para la mayoría de las personas que montan en bicicleta no lo son tanto.
+He empezado por trazar la rutas completa sirviéndome un poco de la información que he podido encontrar, se que ahora mismo no es la ruta idonea, pero por algún sitio había que empezar. Esta ruta tiene muchos incovenientes ahora mismo, como por ejemplo unos perfiles muy elevados o muchos caminos que para un viaje que debería de ser agradable y quizás accesible para la mayoría de las personas que montan en bicicleta.
 
 Es importante decir que la ruta esta planteada ahora mismo desde los mapas de Google Maps, (link: http://www.opencyclemap.org/ text: Open Cycle Map popup:yes) y con la ayuda de la aplicación (link: http://ridewithgps.com/ text: Ride With GPS popup:yes) y no está hecha físcamente, mi intención es hacerla poco a poco e ir documentado cada etapa con fotos y características del camino.
 
 También de primeras me ha sido de utilidad la web de la (link: http://www.rutadelaplata.com/es text: Vía de la Plata popup:yes), que comparte recorrido con la EV1 y una (link: http://www.rodadas.net/foro/topic/eurovelo-1-espana text: pregunta popup:yes) que puse el el foro de la recomendadísima web de (link: http://www.rodadas.net/ text: Rodadas popup:yes).
 
-**Roadmap para la Eurovelo Española EV1:**
+**Roadmap para la EuroVelo Española EV1:**
 
 • Mejorar intinerario: Señalizar supuestamente el oficial, pero intentar mejorarlo porque todavía creo que no está definido aún.
 
@@ -45,14 +45,14 @@ Bueno, esperemos que este sea el primer post de muchos y que dentro de poco teng
 
 Saludos.
 
-<iframe src="http://ridewithgps.com/routes/3806949/embed" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="//rwgps-embeds.com/routes/12676948/embed" height="500px" width="100%" frameborder="0"></iframe>
 <br/>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'eurovelo';
-    
+
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;

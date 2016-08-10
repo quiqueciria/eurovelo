@@ -54,7 +54,7 @@ Son 335 Km que transcurren en parte por la antigua Vía de la Plata desde el Pue
 
 Aunque Andalucía con su (link: http://www.juntadeandalucia.es/fomentoyvivienda/portal-web/web/areas/transportes/plan_bici text:Plan Andaluz de la Bicicleta popup:yes) pareciera que iba a dar un impulso fuerte a las dos rutas de la EuroVelo que pasan por su territorio, así como a poder viajar en bicicleta, por el momento todo indica que todo está bastante parado y no hay muchas noticias de cosas reales.
 
-Son 224 Km que parten desde El Real de la Jara hasta Ayamonte en Huelva, y desde hay, suponemos que tomando un barco se puede continuar hasta Portugal siguiendo la EV1.
+Son 224 Km que parten desde El Real de la Jara hasta Ayamonte en Huelva, y desde hay, (link:https://goo.gl/maps/aDSsDjptAtq text: tomando un ferry popup:yes) se puede continuar hasta Portugal siguiendo la EV1.
 
 |LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
 |---|---|--|

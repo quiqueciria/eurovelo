@@ -23,3 +23,17 @@ El Departamento de Territorio y Sostenibilidad, la Diputación de Girona y el CV
 
 · (link: http://huelvabuenasnoticias.com/2016/07/15/la-via-verde-del-rio-tinto-un-camino-de-1025-kilometros-que-nacera-en-nerva-y-llegara-hasta-huelva/ text: Modificación de la EuroVelo 1 en Huelva popup: yes)
 La Diputación de Huelva, intenta conseguir que se modifique el trazado de la EuroVelo 1 a su paso por Huelva, incluyendo la posible nueva Vía Verde de Río Tinto de 102,5 Km desde Nerva hasta Huelva.
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
