@@ -36,6 +36,9 @@ A falta de separar estas dos comunidades se comentan juntas.
 A través de La Rioja, la ruta EV1 atraviesa aproximadamente 60 Km pasando por su capital Logroño.
 En Castilla y Léon contamos con el trayecto más largo de la EV1 que atraviesa una comunidad española, son aproximadamente 490 Km en los que atravesaremos Burgos, Zamora y Salamanca.
 
+**Más info:**
+(link: http://www.eurovelo.es/blog/Salamanca-Bejar text: De Salamanca al Puerto de Bejar )
+
 |LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
 |---|---|--|
 |556,1 KM|5.552 M.|(link: https://www.strava.com/routes/5679659 popup:yes) |

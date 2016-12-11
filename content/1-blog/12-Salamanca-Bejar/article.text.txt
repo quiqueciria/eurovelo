@@ -1,0 +1,57 @@
+Title: De Salamanca al Puerto de Bejar
+
+----
+
+Date: 2016-12-08
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV1, spain, españa, Salamanca, Bejar, puerto, bicicleta
+
+----
+
+Text:
+
+En Octubre de 2016 hice parte de la ruta Eurovelo 1 desde Salamanca hasta Villafranca de los Barros. El trayecto lo alargue hasta Fregenal de la Sierra ya fuera de esta ruta, pero que me permitió tomar un tren para volver hacia Madrid. Este post forma parte de la serie de ese viaje.
+
+Llegué a Salamanca en un tren Media Distancia desde Madrid. En el tren pude subir la bici sin problemas, aunque a la hora de comprar el billete en taquilla tuve algún leve problema. No les aparecía la opción de bici, pero gracias al interés del taquillero me hizo un billete de "cupo de bicicletas", por supuesto pagando los 3€ correspondientes. Los trenes de media distancia admiten hasta 3 trenes por convoy.
+(image: IMG_20161012_094520.jpg alt: Bicicleta en un tren Renfe de Media Distancia Madrid-Salamanca caption: Bicicleta en un tren Renfe de Media Distancia Madrid-Salamanca)
+
+Desde la Estación de Salamanca "Alamedilla" hasta tomar la carretera (CL-512) que formar parte de la Eurovelo se hace sin problemas. Una vez pasado el río empieza esta. Unos metros adelante prestar atención a la rotonda debajo de la A-66, único tramo peligroso en esta salida de Salamanca.
+
+Es una carretera comarcal tranquila para la bicicleta (CL-512 y DSA-210), sin grandes desniveles marcados. Nos mantendremos en este tipo de carretera hasta el Km. 35 aproximadamente.
+(image: salamanca_carretera.jpg caption: Carretera comarcal tranquila cerca de Salamanca)
+
+En este punto empieza un camino (Kms. 35-40), quizás duro. Es una subida con mucha piedra suelta, que yo tuve que bajar de la bici, hasta los molinos de aire que hay en la parte de arriba. Desde ahí podemos contemplar una buena vista y descansar algo.
+(image: IMG_20161012_124711.jpg)
+
+A partir del Km. 40 ya solo voy por pistas de tierra en general bastante buenas y anchas, sin ningún problema. Paro en Fuenterroble de Salvatierra, donde me como una fabada que me revitaliza.
+(image: camino_fuenteroble_de_salvatierra.jpg)
+
+Desde el Km. 53 me empieza a caer lluvia y tengo que aligerar. Ya no paro a tomar ninguna foto. Todo el camino sigue más o menos igual, pista ancha y en buen estado, hasta el Km. 61, en la Calzada de Bejar.
+
+En esta jornada, esta es la peor parte, ya que aquí empezó a llover mucho. Desde la Calzada de Bejar hay que bajar un camino en muy mal estado. Son solo 3 Km y mi recomendación es hacerlo bajado de la bici, sobretodo si vas cargado.
+(image: camino_calzada_de_bejar.jpg caption: Calzada Romana de Bejar en muy mal estado. Fuente Google Maps - Pedro Maza link: https://www.google.es/maps/@40.400513,-5.824159,3a,75y,90t/data=!3m8!1e2!3m6!1s62579087!2e1!3e10!6s%2F%2Flh6.googleusercontent.com%2Fproxy%2FEwqRKwyg1mHstAL6gWw22GryFw0sOGNHyGGY4_nAu6j9CngrU2xZ-P54JvN6QsiHMcfqjUCGTgYwxjKSagJp2KPuvzXccw%3Dw203-h152!7i3264!8i2448 popup: yes)
+
+Después de atravesar un parte de carretera (o la senda paralela), ya subimos por una pista ancha hacia el Puerto de Bejar.
+
+<iframe height='405' width='720' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/746125788/embed/695719fe91b7732628c4c8b80544930debd4b094'></iframe>
+
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
