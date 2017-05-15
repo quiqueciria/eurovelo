@@ -1,0 +1,45 @@
+Title: 5/2017 - Noticias EuroVelo España
+
+----
+
+Date: 2017-15-05
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV1, spain, españa, turismo, ConBici, ruta de la plata, rutadelaplata, condinadora
+
+----
+
+Text:
+
+· La página de (link: http://www.eurovelo.com/en text:eurovelo.com popup: yes) ha desarrollado una nueva funcionalidad para buscar ofertas y paquetes turísticos relacionados con la bici. Estos paquetes no tienen porque tener relación con la Eurovelo y parece que están muy enfocados al público senior del plan (link: http://silvercyclists.eu/ text:SilverCiclyst Project popup: yes) .
+
+(link: http://www.eurovelo.com/en/our-offers#c9=1&c9=12&c10=100&c10=1000&b_start=0 text:Ofertas y paquetes turísticos popup:yes)
+
+· ConBici ya cuenta con una inspectora Oficial de rutas Eurovelo. Ángeles López, de ConBici, realizó un curso que la habilita para certificar oficialmente recorridos EuroVelo en toda España. Esperamos ver sus resultados.
+(link:http://conbici.org/noticias/noticias-internacionales/conbici-asiste-al-european-route-certification-training text: Nueva Inspectora de rutas Eurovelo popup:yes)
+
+· (link: http://conbici.org/noticias/conbici-coordinara-eurovelo-en-espana-respaldado-por-las-administraciones-publicas text:ConBici coordinará EuroVelo en España respaldado por las administraciones públicas popup:yes). Parece que ya tenemos una coordinadora de Eurovelo para España, que creo que ya lo hacía de antes. La noticia llena de obviedades y que no concreta absolutamente nada, dice que la red estará contemplada para 2020, ya os digo yo que no. Por otro lado comenta que ConBici se encargará de hacer la web, si, la web. Una web como esta que ha hecho una sola persona sin ayuda de nadie. Si se quiere se puede, solo hace falta voluntad. Más voluntad y menos anuncios oficiales.
+
+
+· (link: http://www.20minutos.es/noticia/2843763/0/turoperadores-internacionales-descubren-oferta-cicloturismo-extremadura/ text:Turoperadores popup: yes) internacionales descubre la oferta de ciclosturismo de Extremadura. Seis turoperadores internacionales especializados en cicloturismo, y procedentes de Noruega, Holanda, Reino Unido y Suecia, hiceron una visita a Extremadura para conocer los recursos relacionados con esta actividad deportiva.
+
+· (link: http://www.rutadelaplata.com/es/eventos/show/2090-una-app-para-recorrer-la-ruta-via-de-la-plata-en-bici text:Una app para recorrer la Via de la plata en bici popup:yes). La Red de Cooperación de Ciudades en la Ruta de la Plata, en colaboración con las comunidades autónomas de Asturias, Castilla y León, Extremadura y Andalucía, ha desarrollado una aplicación para móviles (app) que ayuda a los amantes de la bicicleta a recorrer este histórico itinerario sobre las dos ruedas. Tanto si son fans de las bicis todoterreno y rodar por pistas y caminos, como si se trata de ciclistas de ruta a los que les gusta hacer kilómetros por carretera.
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
