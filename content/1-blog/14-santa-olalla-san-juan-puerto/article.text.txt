@@ -1,0 +1,57 @@
+Title: De Santa Olalla de Cala a San Juan del Puerto
+
+----
+
+Date: 2017-06-04
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV1, spain, españa, bicicleta, andalucia, santa olalla, minas de río tinto
+
+----
+
+Text:
+
+La Eurovelo a su paso por Andalucía tiene una primera parte con mucho desnivel al principio hasta que se pasan los primeros 50 kms. y empieza a ser más relajado, ya que es bajada hasta la costa de Huelva.
+(image: a461_eurovelo_azufre.jpg alt: Bicicleta por la carretera A461 caption: Por la carretera A-461 desde Santa Olalla de Cala)
+
+Salimos desde Santa Olalla dirección Azufre por la A-461. Es una carretera tranquila en la que se puede rodar perfectamente y el tráfico no es muy denso. Ya desde primera hora nos vamos adentrando en la preciosa Sierra de Aracena.
+
+Hasta el km. 10 disfrutaremos de una agradable bajada en plena sierra hasta atravesar el río Rivera de Huelva. A partir de este punto hay que prepararse para la subida. Aquí tenemos concentrado prácticamente todo el desnivel de la ruta. Afortunadamente estamos rodeados de una maravillosa vista de la sierra, lo que hace mucho más llevadero el esfuerzo de la subida. Despacito y con buena letra.
+
+Seguimos por la misma carretera (A-461) y seguirán cayendo los kilómetros. En nuestro caso este viaje lo hicimos en Abril-Mayo de 2017, la buena temperatura y la bella estampa del campo nos acompañó.
+
+A partir del km 41 empezaremos a bajar hacia Río Tinto y las vistas son maravillosas, pasando por los embalses y el entorno que las rodea. Pasaremos por las Minas de Río Tinto, donde aconsejo parar a observar las propias minas y el precioso barrio inglés del pueblo.
+(image: minas_de_riotinto.jpg alt: Embalse cerca de las Minas Río Tinto caption: Embalse cerca de las Minas Río Tinto. Fuente Google Maps - Michael Jean Claessens link: https://goo.gl/maps/msAAhf8bbv92 popup: yes)
+(image: barrio_ingles_rio_tinto.jpg alt: Barrio Inglés en Minas de Río Tinto caption: Barrio Ingles en Minas de Río Tinto)
+
+Una vez pasado Río Tinto podemos tomar la Vía Verde de Río Tinto hasta Zalamea la Real. Desde allí según los lugareños, era mucho mejor ir por la carretera N-435, ya que la vía verde se corta varias veces. Según nos contaron mucha gente ha cerrado fincas encima de la vía verde, y parece ser que nadie está controlando esto. Independiente de este detalle, la carretera está bastante bien, tiene buen arcén y no vimos un gran número de coches.
+(image: via_verde_rio_tinto.jpg alt: Vía Verde de Río Tinto caption: Vía Verde de Río Tinto)
+
+Nos volvemos a incorporar a la vía verde de Riotinto en el km 68 aproximadamente, y aunque en este punto vemos que la vía no está en las mejores condiciones, después su estado es mucho mejor. Es importante destacar la gran presencia ilegal de motos de cross que vimos en esta vía verde, hay que tener mucho cuidado de no tener ningún encontronazo con ellos.
+
+Ya seguimos la vía verde de Riotinto hasta Valverde, donde enganchamos con otra vía verde llamada Vía Verde de los Molinos de Agua. Una vía verde en muy buenas condiciones y en la que mientras ciclamos iremos acompañados de pinos y bosque continuamente.
+(image: via_verde_los_molinos_de_agua.jpg alt: Vía Verde de los Molinos de Agua caption: Vía Verde de los Molinos de Agua)
+
+La vía verde de Los Molinos del agua no la dejaremos hasta San Juan del Puerto, con desnivel positivo es un estupendo recorrido para la bicicleta. Son prácticamente 45 kms. de vía verde rodeados de bosque hasta nuestro punto final en San Juan del Puerto.
+
+<iframe height='405' width='720' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/977091293/embed/bcd55b62521d7655853bd6873d0be20bd0447127'></iframe>
+
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>

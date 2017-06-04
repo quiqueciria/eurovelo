@@ -59,6 +59,9 @@ Aunque Andalucía con su (link: http://www.juntadeandalucia.es/fomentoyvivienda/
 
 Son 181,4 Km que parten desde El Real de la Jara hasta Ayamonte en Huelva, pasando por la preciosa Sierra de Aracena, y desde ahí, (link:https://goo.gl/maps/aDSsDjptAtq text: tomando un ferry popup:yes) se puede continuar hasta Portugal siguiendo la EV1.
 
+**Más info:**
+(link: http://www.eurovelo.es/blog/santa-olalla-san-juan-puerto text: De Santa Olalla de Cala a San Juan del Puerto)
+
 |LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
 |---|---|--|
 |181,4 KM|1.700 M.|(link: https://www.strava.com/routes/8526780 popup:yes) |
