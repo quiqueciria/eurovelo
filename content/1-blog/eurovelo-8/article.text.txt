@@ -1,4 +1,4 @@
-Title: Eurovelo 8, una gran propuesta para viajar en bici hoy
+Title: EuroVelo 8 a su paso por Valencia y Castellón
 
 ----
 
@@ -10,18 +10,23 @@ Description:
 
 ----
 
-Tags: eurovelo, EV8, spain, españa, bicicleta, valencia
+Tags: eurovelo, EV8, spain, españa, bicicleta, valencia, tortosa, gandia, cullera, benicasim
 
 ----
 
 Text:
 
-Escrito por Carlos Fadrique.
+<span class="intro"> Este artículo está escrito gracias a la colaboración de **Carlos Fadrique**. Carlos tiene un estupendo blog dedicado al ciclismo y cicloturismo (y kayak algunas veces :) llamado (link: https://bicicletasypiruletas.com/ text: Bicicletas y Piruletas popup: yes).</span>
+(image: map-eurovelo-8-valencia.jpg text: Mapa de la eurovelo 8 desde Gandía a Tortosa)
+
+|LONGITUD|DESNIVEL POS.|MAPA Y TRACKS GPS|
+|---|---|--|
+|305 KM|1.240 M.|(link: https://es.wikiloc.com/wikiloc/view.do?id=18088149 text: Wikiloc popup:yes) |
 
 
-La Eurovelo 8 es una gran propuesta para viajar en bici hoy, sin esperar a mañana. También quiero que tengas claro que es para todos los públicos, de hecho si visitas nuestro blog verás que todos esos tramos los hemos hecho un (link: https://bicicletasypiruletas.com/sobre-mi-historia-pasion/ text: cuarentón title: Me llamo Carlos, y tengo más de 40, pero menos de 50) y un chaval de 12-14 años. Vale, hay algún punto delicado (te los he marcado en el track) pero el recorrido es seguro, plano y la mayoría por asfalto. Vas a cruzar varios parques naturales, y no vas a tener problema a la hora de dormir y comer (por oferta y precio). Algo muy positivo es que se puede hacer en cualquier época del año, si bien mejor evitar los meses de julio y agosto, y vigilar la gota fría en otoño (lluvias muy violentas). La comunidad valenciana tiene muchos atractivos turísticos, y con esta ruta vas a disfrutar de casi todos.
+La EuroVelo 8 es una gran propuesta para viajar en bici hoy, sin esperar a mañana. También quiero que tengas claro que es para todos los públicos, de hecho si visitas nuestro (link: https://bicicletasypiruletas.com/ text: blog popup: yes) verás que todos esos tramos los hemos hecho un (link: https://bicicletasypiruletas.com/sobre-mi-historia-pasion/ text: cuarentón title: Me llamo Carlos, y tengo más de 40, pero menos de 50 popup: yes) y un chaval de 12-14 años. Vale, hay algún punto delicado (te los he marcado en el track) pero el recorrido es seguro, plano y la mayoría por asfalto. Vas a cruzar varios parques naturales, y no vas a tener problema a la hora de dormir y comer (por oferta y precio). Algo muy positivo es que se puede hacer en cualquier época del año, si bien mejor evitar los meses de julio y agosto, y vigilar la gota fría en otoño (lluvias muy violentas). La comunidad valenciana tiene muchos atractivos turísticos, y con esta ruta vas a disfrutar de casi todos.
 (image: SANY0760.jpg alt: # caption: Aquí va la leyenda)
-He acotado este tramo de Valencia a Tortosa, por una razón: la facilidad para unir ambos puntos con Cercanías (Castellón-Valencia-Gandía) y Regional (Valencia-Tortosa). En ambos trenes se sube con facilidad la bici al tren. Como todo el mundo sabe, la logística para llegar con tu bici o volver a casa, es vital. Más allá de esta propuesta, se puede continuar con facilidad. De hecho nosotros hemos seguido por el norte hasta Tarragona, y por el sur hasta Alcoy. Como verás no hicimos todo el viaje del tirón, puesto que al ser del (link: https://bicicletasypiruletas.com/tag/eurovelo/ text: terreno title: Todo sobre las rutas Eurovelo), lo pedaleamos en excursiones de un día, o en viajes de un par de jornadas. Uno normalmente siempre hace propaganda de su tierra, pero en este caso creo que no exagero si digo que con la eurovelo 8 por Valencia, sale un viaje guapo, guapo.
+He acotado este tramo de Valencia a Tortosa, por una razón: la facilidad para unir ambos puntos con Cercanías (Castellón-Valencia-Gandía) y Regional (Valencia-Tortosa). En ambos trenes se sube con facilidad la bici al tren. Como todo el mundo sabe, la logística para llegar con tu bici o volver a casa, es vital. Más allá de esta propuesta, se puede continuar con facilidad. De hecho nosotros hemos seguido por el norte hasta Tarragona, y por el sur hasta Alcoy. Como verás no hicimos todo el viaje del tirón, puesto que al ser del (link: https://bicicletasypiruletas.com/tag/eurovelo/ text: terreno title: Todo sobre las rutas EuroVelo popup: yes), lo pedaleamos en excursiones de un día, o en viajes de un par de jornadas. Uno normalmente siempre hace propaganda de su tierra, pero en este caso creo que no exagero si digo que con la EuroVelo 8 por Valencia, sale un viaje guapo, guapo.
 (image: SANY0809.jpg alt: # caption: Aquí va la leyenda)
 
 Si salimos desde Gandía, el centro histórico nos va a impresionar con sus casas monumentales. Es recomendable pasar por el puerto, epicentro de la ciudad, para luego buscar la playa donde un carril bici, nos lleva hacia el norte. Cuando termina la playa debemos coger una carretera comarcal la cv-605 con un amplio arcén, pero con tráfico. Luego nos desviamos hacia la playa de Xeraco, donde evitamos esa comarcal. Más adelante la debemos tomar de nuevo para cruzar el estany gran, antes de entrar a Cullera. Como en la mayoría de pueblos que vamos a encontrar, está el pueblo antiguo, y la parte más nueva, pegada a la playa y repleta de apartamentos. Antiguamente las zonas a la orilla del mar eran humedales con mosquitos a cascoporro. Además había unos chicos malotes (piratas) que se plantaban sin ser invitados. Por eso, antes la gente vivía apartada de la orilla del mar.
@@ -46,8 +51,8 @@ Para llegar a la frontera con Cataluña tendremos que atravesar y rodar un poco 
 
 La TV-3408 tiene al lado el canal de la dreta del Ebre, por donde un estupendo camino de tierra nos lleva hasta Amposta con arrozales (otra vez) como horizonte. En Amposta cruzaremos el rio Ebro por el precioso puente colgante. Esta zona después del puente la han arreglado para conectar con facilidad con el camino natural que lleva a Tortosa, a la orilla del Ebro. Que sepas que si solo quieres coger el tren te puedes desviar hasta la estación de l´Aldea. No obstante en un paseo muy agradable llegaremos a Tortosa donde bien podemos hacer una visita a esta centenaria ciudad.
 (image: SANY0787.jpg alt: # caption: Aquí va la leyenda)
-En Tortosa, acaba esta ruta propuesta, pero es muy fácil seguir hacía el Norte hasta Tarragona. O si lo prefieres hacia el interior, donde Alcañiz nos espera por la vía verde del Baix Ebre, la Terra Alta o Val de Zafan. Espero que te haya gustado esta propuesta, y en (link: https://bicicletasypiruletas.com/tag/eurovelo/ text: nuestra web title: Todo sobre las rutas Eurovelo) puedes obtener más info de cuando nosotros pedaleamos esos tramos. Si tienes cualquier duda en la web puedes encontrar nuestro mail, donde te soluciono cualquier duda que te pueda aclarar.
-
+En Tortosa, acaba esta ruta propuesta, pero es muy fácil seguir hacía el Norte hasta Tarragona. O si lo prefieres hacia el interior, donde Alcañiz nos espera por la vía verde del Baix Ebre, la Terra Alta o Val de Zafan. Espero que te haya gustado esta propuesta, y en (link: https://bicicletasypiruletas.com/tag/eurovelo/ text: nuestra web title: Todo sobre las rutas EuroVelo popup: yes) puedes obtener más info de cuando nosotros pedaleamos esos tramos. Si tienes cualquier duda en la web puedes encontrar nuestro mail, donde te soluciono cualquier duda que te pueda aclarar.
+###Ruta en (link: https://es.wikiloc.com/wikiloc/view.do?id=18088149 text: Wikiloc title: Ruta EuroVelo por Valencia popup: yes)
 <iframe height='405' width='720' frameBorder="0" scrolling="no" src="https://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=18088149&measures=off&title=off&near=off&images=off&maptype=S"></iframe>
 </br>
 <div id="disqus_thread"></div>

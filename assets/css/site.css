@@ -388,6 +388,15 @@ p {
     line-height: 27px;
 }
 
+/*
+ :::  Esto es un span usado para intro del colaborador
+-------------------------------------------------- */
+.intro {
+    font-family: 'Work Sans', Helvetica, sans-serif;
+    font-style: italic;
+    letter-spacing: 0px;
+}
+
 
 
 /*
