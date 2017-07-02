@@ -57,11 +57,12 @@
           <?php endif ?>
         </div>
       </header>
-      <div><?php echo excerpt($article->text(), 700) ?>
-      <a href="<?php echo $article->url() ?>">[read more →]</a></div>
+        <div><?php echo excerpt($article->text(), 700) ?>
+            <a href="#"></a></div> 
+        <div><a href="<?php echo $article->url() ?>" class="btn-readmore">Leer más →</a></div>    
     </article>
 
-    <?php elseif($article->template() == 'article.link'): // link posts ?>
+      <?php elseif($article->template() == 'article.link'): // link posts ?>
     <article>
       <header>
         <h1><a href="<?php echo $article->customlink() ?>"><?php echo html($article->linktitle()) ?> →</a></h1>

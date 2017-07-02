@@ -617,3 +617,15 @@ article figure {
   position: absolute;
   width: 1px;
 }
+
+/*
+ :::  Button "Leer más"
+-------------------------------------------------- */
+
+.btn-readmore {
+    display: inline-block;
+    padding: 2px 10px 0px 10px;
+    border: 1px solid #FFDC00;
+    border-radius: 3px;
+
+}
