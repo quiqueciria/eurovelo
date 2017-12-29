@@ -135,6 +135,7 @@ a:active {
   .menu li {
     float: left;
     display: inline-block;
+    margin-bottom: 10px;
   }
     .menu a {
       display: block;
@@ -166,15 +167,18 @@ a:active {
 
 
   .submenu {
-        position: absolute;
-        z-index: 1;
         display: none;
         background-color: #fbea7f;
+        position: absolute;    
       }
       .submenu li {
-        border-top: 1px solid #85144B;
-        width: 100%;
+        display: block;
+        float: none;
+        margin-bottom: 0px;
       }
+      .submenu li:nth-child(2) { 
+        background-color:  #ECCC08; 
+}
       .submenu a {
         padding: .5em;
         font-size: .9em;
@@ -209,12 +213,23 @@ a:active {
       .menu > li:hover .submenu {
         display: block;
       }
+      
+      .menuitem:last-child {
+      margin-top: 0px;
+    }
 
       .btn_twitter a {
         float: right;
         margin-top: 0px;
       }
   }
+
+@media only screen and (max-width : 719px) {
+   .menuitem:last-child {
+    margin-bottom: 15px;
+    }
+  
+}
 
 
 
@@ -251,11 +266,6 @@ a:active {
     }
 }
 
-@media only screen and (max-width : 719px) {
-  .search {
-    margin-top: 15px;
-    }
-}
 
 
 
