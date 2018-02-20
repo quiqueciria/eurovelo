@@ -1,3 +1,5 @@
 # -- Kirby -----------------------------------------
 site/accounts
 site/config
+
+.DS_Store
