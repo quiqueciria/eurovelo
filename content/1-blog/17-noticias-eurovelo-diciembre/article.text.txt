@@ -1,0 +1,44 @@
+Title: 12/2018 - Noticias EuroVelo España
+
+----
+
+Date: 2018-12-01
+
+----
+
+Description:
+
+----
+
+Tags: eurovelo, EV8, spain, españa, turismo, Almeria, MedCycleTour, Cadiz, Andalucia
+
+----
+
+Text:
+
+(image: sign-eurovelo.png alt: Señal de la Eurovelo)
+
+· Experiencia piloto en Almería para señalizar la Ruta EuroVelo 8 entre Almería y Carboneras. Se trata de un proyecto para dotar de señalización unos 92 KM. (link: https://www.infraestructurasymovilidad.es/experiencia-piloto-en-almeria-para-senalizar-la-ruta-eurovelo8-entre-la-capital-y-carboneras/ text:Experiencia piloto de señalización de la Eurovelo 8 en Almería popup: yes).
+
+· EuroVelo 8 Cádiz: aprobado el proyecto de construcción de la vía ciclista entre Conil y Los Caños. (link: https://www.infraestructurasymovilidad.es/eurovelo8-cadiz-aprobado-el-proyecto-de-construccion-de-la-via-ciclista-entre-conil-y-los-canos/ text:Via ciclista entre Conil y los Caños popup: yes).
+
+· Acerca del proyecto Proyecto MedCycleTour en Andalucía.Artículo ede la página de (link:http://www.eurovelospain.com/ text:EuroveloSpain popup:yes) en la Eurovelo 8 (link: http://www.eurovelospain.com/proyecto-eurovelo-8-ruta-del-mediterraneo-interreg-med-cycletour/ text:Proyecto MedCycleTour popup: yes).
+
+· La Dirección General de Turismo de Catalunya (DGT) participa en el proyecto europeo MedCycleTour para impulsar esta ruta ciclista (CAT). (link: http://empresa.gencat.cat/ca/detalls/article/Promovent-la-ruta-ciclista-del-Mediterrani-EuroVelo-8 text:Impulso a la Eurovelo 8 por parte de la DGT popup: yes).
+
+· Artículo de contexto sobre la ruta mediterranea Eurovelo 8 y su comparación con el trazado ferroviario en España. (link: https://www.lavanguardia.com/local/valencia/20170629/423744170186/corredor-mediterraneo-ciclista-eurovelo.html text:El ‘corredor mediterráneo’ ciclista también se eterniza popup: yes).
+
+</br>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'eurovelo';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
